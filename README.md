@@ -33,12 +33,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<div align="center">
-  
-![Bobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobbyiliev&show_icons=true&theme=radical)
-
-</div>
-
 <p align="center">
 <br><br>
 <a href="https://dev.to/bobbyiliev"> 
